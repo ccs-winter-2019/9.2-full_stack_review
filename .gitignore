@@ -1,0 +1,11 @@
+# IDE
+.idea/
+
+# OS
+.DS_Store
+__pycache__/
+
+# DB
+*.sqlite3
+
+
